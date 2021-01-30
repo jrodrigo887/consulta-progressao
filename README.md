@@ -1,4 +1,9 @@
-# ConsultaProgressao
+# Consulta Progressao
+
+**Objetivo**  
+
+Este projeto pessoal tem como objetivo facilitar a consulta de processos sobre o assunto: Progressão Funcional Vertical.  
+A consulta será feita através da inserção da matrícula do interessado(a)s, a saber, professores do Estado da Paraíba, ao tempo que o sistema retornará o resultado, disponibilizando-a na tela. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
